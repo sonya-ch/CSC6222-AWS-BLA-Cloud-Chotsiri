@@ -75,11 +75,8 @@ AWS-Cloud-Practitioner-Teaching/
 ├── README.md
 │
 ├── Biweekly-01-Cloud-Fundamentals/
-
 │   ├── README.md
-
 │   ├── notes.md
-
 │   ├── youtube-topics.md
 │   └── linkedin-posts.md
 │
