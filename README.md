@@ -27,7 +27,6 @@ For each biweekly period, I follow this learning cycle:
 ---
 
 # Biweekly Learning Roadmap
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Biweekly | Topic                                                                    | Main Focus                                            | Status         |
 | -------- | ------------------------------------------------------------------------ | ----------------------------------------------------- | -------------- |
 | **01**   | [Cloud Computing & AWS Fundamentals](./Biweekly-01-Cloud-Fundamentals/)  | Cloud concepts, AWS basics, Global Infrastructure     | 🔄 In Progress |
@@ -37,7 +36,8 @@ For each biweekly period, I follow this learning cycle:
 | **05**   | [AWS Networking & Content Delivery](./Biweekly-05-Networking/)           | VPC, Subnets, Route Tables, Route 53, CloudFront      | ⏳ Upcoming    |
 | **06**   | [AWS Monitoring, Management & Cost](./Biweekly-06-Management-and-Cost/)  | CloudWatch, CloudTrail, Billing, Pricing, Support     | ⏳ Upcoming    |
 | **07**   | [AWS Architecture & Exam Review](./Biweekly-07-Architecture-and-Review/) | Well-Architected Framework, Architecture, Exam Review | ⏳ Upcoming    |
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
 
 
 # Content Structure
