@@ -28,16 +28,16 @@ For each biweekly period, I follow this learning cycle:
 ---
 
 # Biweekly Learning Roadmap
-| Biweekly | Topic                                                                    | Main Focus                                            | Status         |
-| -------- | ------------------------------------------------------------------------ | ----------------------------------------------------- | -------------- |
-| **01**   | [Cloud Computing & AWS Fundamentals](./BLA-01-AWS-Cloud/)                | Cloud concepts, AWS basics, Global Infrastructure     | 🔄 In Progress |
-| **02**   | [AWS IAM & Security](./Biweekly-02-IAM-and-Security/)                    | IAM, authentication, authorization, security          | ⏳ Upcoming    |
-| **03**   | [AWS Compute Services](./Biweekly-03-Compute/)                           | EC2, EBS, AMI, ELB, Auto Scaling, Lambda              | ⏳ Upcoming    |
-| **04**   | [AWS Storage & Databases](./Biweekly-04-Storage-and-Databases/)          | S3, EFS, RDS, Aurora, DynamoDB                        | ⏳ Upcoming    |
-| **05**   | [AWS Networking & Content Delivery](./Biweekly-05-Networking/)           | VPC, Subnets, Route Tables, Route 53, CloudFront      | ⏳ Upcoming    |
-| **06**   | [AWS Monitoring, Management & Cost](./Biweekly-06-Management-and-Cost/)  | CloudWatch, CloudTrail, Billing, Pricing, Support     | ⏳ Upcoming    |
-| **07**   | [AWS Architecture & Exam Review](./Biweekly-07-Architecture-and-Review/) | Well-Architected Framework, Architecture, Exam Review | ⏳ Upcoming    |
 
+| Biweekly | Topic                                                               | Main Focus                                            | Status         |
+| -------- | --------------------------------------------------------------------| ----------------------------------------------------- | -------------- |
+| **01**   | [Cloud Computing & AWS Fundamentals](./BLA-01-AWS-Cloud/)           | Cloud concepts, AWS basics, Global Infrastructure     | 🔄 In Progress |
+| **02**   | [AWS IAM & Security](./BLA-02-IAM-and-Security/)                    | IAM, authentication, authorization, security          | ⏳ Upcoming    |
+| **03**   | [AWS Compute Services](./BLA-03-Compute/)                           | EC2, EBS, AMI, ELB, Auto Scaling, Lambda              | ⏳ Upcoming    |
+| **04**   | [AWS Storage & Databases](./BLA-04-Storage-and-Databases/)          | S3, EFS, RDS, Aurora, DynamoDB                        | ⏳ Upcoming    |
+| **05**   | [AWS Networking & Content Delivery](./BLA-05-Networking/)           | VPC, Subnets, Route Tables, Route 53, CloudFront      | ⏳ Upcoming    |
+| **06**   | [AWS Monitoring, Management & Cost](./BLA-06-Management-and-Cost/)  | CloudWatch, CloudTrail, Billing, Pricing, Support     | ⏳ Upcoming    |
+| **07**   | [AWS Architecture & Exam Review](./BLA-07-Architecture-and-Review/) | Well-Architected Framework, Architecture, Exam Review | ⏳ Upcoming    |
 ---
 
 
@@ -71,43 +71,46 @@ The posts focus on communicating technical knowledge in a concise and accessible
 
 # Repository Structure
 
+
 AWS-Cloud-Practitioner-Teaching/
 - README.md
-- Biweekly-01-Cloud-Fundamentals/
+- BLA-01-Cloud/
   - README.md
   - notes.md
   - youtube-topics.md
   - linkedin-posts.md
-- Biweekly-02-IAM-and-Security/
+- BLA-02-IAM-and-Security/
   - README.md
   - notes.md
   - youtube-topics.md
   - linkedin-posts.md
-- Biweekly-03-Compute/
+- BLA-03-Compute/
   - README.md
   - notes.md
   - youtube-topics.md
   - linkedin-posts.md
-- Biweekly-04-Storage-and-Databases/
+- BLA-04-Storage-and-Databases/
   - README.md
   - notes.md
   - youtube-topics.md
   - linkedin-posts.md
-- Biweekly-05-Networking/
+- BLA-05-Networking/
   - README.md
   - notes.md
   - youtube-topics.md
   - linkedin-posts.md
-- Biweekly-06-Management-and-Cost/
+- BLA-06-Management-and-Cost/
   - README.md
   - notes.md
   - youtube-topics.md
   - linkedin-posts.md
-- Biweekly-07-Architecture-and-Review/
+- BLA-07-Architecture-and-Review/
   - README.md
   - notes.md
   - youtube-topics.md
   - linkedin-posts.md
+
+
 
 ---
 
