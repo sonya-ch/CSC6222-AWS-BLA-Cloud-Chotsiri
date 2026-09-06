@@ -29,7 +29,7 @@ For each biweekly period, I follow this learning cycle:
 # Biweekly Learning Roadmap
 | Biweekly | Topic                                                                    | Main Focus                                            | Status         |
 | -------- | ------------------------------------------------------------------------ | ----------------------------------------------------- | -------------- |
-| **01**   | [Cloud Computing & AWS Fundamentals](./Biweekly-01-Cloud-Fundamentals/)  | Cloud concepts, AWS basics, Global Infrastructure     | 🔄 In Progress |
+| **01**   | [Cloud Computing & AWS Fundamentals](./BLA-01-AWS-Cloud/)                | Cloud concepts, AWS basics, Global Infrastructure     | 🔄 In Progress |
 | **02**   | [AWS IAM & Security](./Biweekly-02-IAM-and-Security/)                    | IAM, authentication, authorization, security          | ⏳ Upcoming    |
 | **03**   | [AWS Compute Services](./Biweekly-03-Compute/)                           | EC2, EBS, AMI, ELB, Auto Scaling, Lambda              | ⏳ Upcoming    |
 | **04**   | [AWS Storage & Databases](./Biweekly-04-Storage-and-Databases/)          | S3, EFS, RDS, Aurora, DynamoDB                        | ⏳ Upcoming    |
