@@ -70,10 +70,11 @@ The posts focus on communicating technical knowledge in a concise and accessible
 
 # Repository Structure
 
-- `README.md` — Overview of the entire AWS learning journey
-- `Biweekly-01-Cloud-Fundamentals/`
-  - `README.md`
-  - `notes.md`
+AWS-Cloud-Practitioner-Teaching/
+- README.md
+- Biweekly-01-Cloud-Fundamentals/
+  - README.md
+  - notes.md
   - `youtube-topics.md`
   - `linkedin-posts.md`
 - `Biweekly-02-IAM-and-Security/`
