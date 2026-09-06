@@ -71,46 +71,29 @@ The posts focus on communicating technical knowledge in a concise and accessible
 
 # Repository Structure
 
-
 AWS-Cloud-Practitioner-Teaching/
 - README.md
 - BLA-01-Cloud/
   - README.md
   - notes.md
-  - youtube-topics.md
-  - linkedin-posts.md
 - BLA-02-IAM-and-Security/
   - README.md
   - notes.md
-  - youtube-topics.md
-  - linkedin-posts.md
 - BLA-03-Compute/
   - README.md
   - notes.md
-  - youtube-topics.md
-  - linkedin-posts.md
 - BLA-04-Storage-and-Databases/
   - README.md
   - notes.md
-  - youtube-topics.md
-  - linkedin-posts.md
 - BLA-05-Networking/
   - README.md
   - notes.md
-  - youtube-topics.md
-  - linkedin-posts.md
 - BLA-06-Management-and-Cost/
   - README.md
   - notes.md
-  - youtube-topics.md
-  - linkedin-posts.md
 - BLA-07-Architecture-and-Review/
   - README.md
   - notes.md
-  - youtube-topics.md
-  - linkedin-posts.md
-
-
 
 ---
 
