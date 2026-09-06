@@ -75,38 +75,38 @@ AWS-Cloud-Practitioner-Teaching/
 - Biweekly-01-Cloud-Fundamentals/
   - README.md
   - notes.md
-  - `youtube-topics.md`
-  - `linkedin-posts.md`
-- `Biweekly-02-IAM-and-Security/`
-  - `README.md`
-  - `notes.md`
-  - `youtube-topics.md`
-  - `linkedin-posts.md`
-- `Biweekly-03-Compute/`
-  - `README.md`
-  - `notes.md`
-  - `youtube-topics.md`
-  - `linkedin-posts.md`
-- `Biweekly-04-Storage-and-Databases/`
-  - `README.md`
-  - `notes.md`
-  - `youtube-topics.md`
-  - `linkedin-posts.md`
-- `Biweekly-05-Networking/`
-  - `README.md`
-  - `notes.md`
-  - `youtube-topics.md`
-  - `linkedin-posts.md`
-- `Biweekly-06-Management-and-Cost/`
-  - `README.md`
-  - `notes.md`
-  - `youtube-topics.md`
-  - `linkedin-posts.md`
-- `Biweekly-07-Architecture-and-Review/`
-  - `README.md`
-  - `notes.md`
-  - `youtube-topics.md`
-  - `linkedin-posts.md`
+  - youtube-topics.md
+  - linkedin-posts.md
+- Biweekly-02-IAM-and-Security/
+  - README.md
+  - notes.md
+  - youtube-topics.md
+  - linkedin-posts.md
+- Biweekly-03-Compute/
+  - README.md
+  - notes.md
+  - youtube-topics.md
+  - linkedin-posts.md
+- Biweekly-04-Storage-and-Databases/
+  - README.md
+  - notes.md
+  - youtube-topics.md
+  - linkedin-posts.md
+- Biweekly-05-Networking/
+  - README.md
+  - notes.md
+  - youtube-topics.md
+  - linkedin-posts.md
+- Biweekly-06-Management-and-Cost/
+  - README.md
+  - notes.md
+  - youtube-topics.md
+  - linkedin-posts.md
+- Biweekly-07-Architecture-and-Review/
+  - README.md
+  - notes.md
+  - youtube-topics.md
+  - linkedin-posts.md
 
 ---
 
