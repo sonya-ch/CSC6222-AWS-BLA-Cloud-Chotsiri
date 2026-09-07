@@ -2,7 +2,7 @@
 # Name: Saranya Chotsiri
 # Course: CSC6221 - Database Design 2 
 # Instructor: Dr Victor Govindaswamy
-# Last Update: 9/6/2026
+# Last Update: 9/7/2026
 
 ##  Overview
 
