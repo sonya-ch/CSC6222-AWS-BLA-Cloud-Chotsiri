@@ -31,8 +31,8 @@ For each biweekly period, I follow this learning cycle:
 
 | Biweekly | Topic                                                               | Main Focus                                            | Status         |
 | -------- | --------------------------------------------------------------------| ----------------------------------------------------- | -------------- |
-| **01**   | [Cloud Computing & AWS Fundamentals](./BLA-01-AWS-Cloud/)           | Cloud concepts, AWS basics, Global Infrastructure     | 🔄 In Progress |
-| **02**   | [AWS IAM & Security](./BLA-02-IAM-and-Security/)                    | IAM, authentication, authorization, security          | ⏳ Upcoming    |
+| **01**   | [Cloud Computing & AWS Fundamentals](./BLA-01-AWS-Cloud/)           | Cloud concepts, AWS basics, Global Infrastructure     | ✅ Completed   |
+| **02**   | [AWS IAM & Security](./BLA-02-IAM-and-Security/)                    | IAM, authentication, authorization, security          | 🔄 In Progress |
 | **03**   | [AWS Compute Services](./BLA-03-Compute/)                           | EC2, EBS, AMI, ELB, Auto Scaling, Lambda              | ⏳ Upcoming    |
 | **04**   | [AWS Storage & Databases](./BLA-04-Storage-and-Databases/)          | S3, EFS, RDS, Aurora, DynamoDB                        | ⏳ Upcoming    |
 | **05**   | [AWS Networking & Content Delivery](./BLA-05-Networking/)           | VPC, Subnets, Route Tables, Route 53, CloudFront      | ⏳ Upcoming    |
