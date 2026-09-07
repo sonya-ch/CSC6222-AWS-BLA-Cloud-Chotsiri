@@ -57,20 +57,24 @@ how AWS is structured globally, and how AWS services can be used to build applic
 * Regional vs. Global services
 
 
-
 ### YouTube Videos
 1. **What is Cloud Computing?**
+ https://youtu.be/zfIwL8A-bGY
 2. **Introduction to AWS**
+ https://youtu.be/zWKkoKvf0oQ
 3. **AWS Global Infrastructure: Regions, Availability Zones, and Edge Locations**
+ https://youtu.be/a3-yhnfFgSo
 
 
 ### LinkedIn Posts
-
 I shared three LinkedIn posts based on the concepts covered in this biweekly project.
 1. Cloud Computing
 2. Introduction to AWS
 3. AWS Global Infrastructure
-
+Links:
+https://www.linkedin.com/feed/update/urn:li:activity:7502588570759712768/
+https://www.linkedin.com/feed/update/urn:li:activity:7502589114647474176/
+https://www.linkedin.com/feed/update/urn:li:activity:7502589732548161536/
 
 
 ### Learning Resource
