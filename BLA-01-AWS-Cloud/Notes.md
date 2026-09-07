@@ -146,16 +146,10 @@ Using multiple Availability Zones can improve **high availability**.
 For example:
 
 AWS Region
-│
-├── Availability Zone A
-│   └── Application Server
-│
-├── Availability Zone B
-│   └── Application Server
-│
-└── Availability Zone C
-    └── Application Server
-
+ * Availability Zone A
+    - Application Server
+ * Availability Zone B
+    - Application Server
 If one Availability Zone has a problem, resources in another Availability Zone may continue operating.
 
 ---
