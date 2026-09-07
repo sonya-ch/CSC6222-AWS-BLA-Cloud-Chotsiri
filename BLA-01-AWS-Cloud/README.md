@@ -71,6 +71,7 @@ I shared three LinkedIn posts based on the concepts covered in this biweekly pro
 1. Cloud Computing
 2. Introduction to AWS
 3. AWS Global Infrastructure
+
 Links:
 https://www.linkedin.com/feed/update/urn:li:activity:7502588570759712768/
 https://www.linkedin.com/feed/update/urn:li:activity:7502589114647474176/
