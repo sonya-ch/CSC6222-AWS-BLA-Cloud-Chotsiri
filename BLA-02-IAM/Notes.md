@@ -2,7 +2,7 @@
 # Name: Saranya Chotsiri
 # Course: CSC6221 - Database Design 2 
 # Instructor: Dr Victor Govindaswamy
-# Last Update: 9/15/2026
+# Last Update: 9/16/2026
 
 ## AWS IAM & Security	IAM, authentication, authorization, security
 
