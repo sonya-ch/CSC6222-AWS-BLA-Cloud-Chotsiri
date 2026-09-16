@@ -2,14 +2,12 @@
 # Name: Saranya Chotsiri
 # Course: CSC6221 - Database Design 2 
 # Instructor: Dr Victor Govindaswamy
-# Last Update: 9/7/2026
+# Start Date: 9/1/2026
 
 ##  Overview
 
 This repository documents my learning and teaching journey toward the **AWS Certified Cloud Practitioner** certification.
-
 As part of my biweekly learning activities, I study AWS concepts, create educational content, and share what I learn through YouTube and LinkedIn.
-
 The goal of this repository is not only to prepare for the AWS Cloud Practitioner certification, 
 but also to demonstrate my ability to understand technical concepts and explain them in a clear and accessible way.
 
@@ -32,8 +30,8 @@ For each biweekly period, I follow this learning cycle:
 | Biweekly | Topic                                                               | Main Focus                                            | Status         |
 | -------- | --------------------------------------------------------------------| ----------------------------------------------------- | -------------- |
 | **01**   | [Cloud Computing & AWS Fundamentals](./BLA-01-AWS-Cloud/)           | Cloud concepts, AWS basics, Global Infrastructure     | ✅ Completed   |
-| **02**   | [AWS IAM & Security](./BLA-02-IAM-and-Security/)                    | IAM, authentication, authorization, security          | 🔄 In Progress |
-| **03**   | [AWS Compute Services](./BLA-03-Compute/)                           | EC2, EBS, AMI, ELB, Auto Scaling, Lambda              | ⏳ Upcoming    |
+| **02**   | [AWS IAM & Security](./BLA-02-IAM-and-Security/)                    | IAM, authentication, authorization, security          | ✅ Completed   |
+| **03**   | [AWS Compute Services](./BLA-03-Compute/)                           | EC2, EBS, AMI, ELB, Auto Scaling, Lambda              | 🔄 In Progress |
 | **04**   | [AWS Storage & Databases](./BLA-04-Storage-and-Databases/)          | S3, EFS, RDS, Aurora, DynamoDB                        | ⏳ Upcoming    |
 | **05**   | [AWS Networking & Content Delivery](./BLA-05-Networking/)           | VPC, Subnets, Route Tables, Route 53, CloudFront      | ⏳ Upcoming    |
 | **06**   | [AWS Monitoring, Management & Cost](./BLA-06-Management-and-Cost/)  | CloudWatch, CloudTrail, Billing, Pricing, Support     | ⏳ Upcoming    |
@@ -76,7 +74,7 @@ AWS-Cloud-Practitioner-Teaching/
 - BLA-01-Cloud/
   - README.md
   - notes.md
-- BLA-02-IAM-and-Security/
+- BLA-02-IAM/
   - README.md
   - notes.md
 - BLA-03-Compute/
