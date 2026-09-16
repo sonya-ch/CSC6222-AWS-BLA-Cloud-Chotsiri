@@ -1,4 +1,4 @@
-# Project: AWS Cloud Practitioner — Biweekly 2 - IAM & AWS Security
+# Project: AWS Cloud Practitioner [Biweekly 2] - IAM & AWS Security
 # Name: Saranya Chotsiri
 # Course: CSC6221 - Database Design 2 
 # Instructor: Dr Victor Govindaswamy
