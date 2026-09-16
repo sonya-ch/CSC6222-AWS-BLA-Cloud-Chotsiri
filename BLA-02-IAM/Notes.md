@@ -6,4 +6,18 @@
 
 ## AWS IAM & Security	IAM, authentication, authorization, security
 
-## What is AWS IAM? 
+## Concept Remember
+1.	IAM   Controls authentication & authorization
+2.	Root User	Full account-level power; avoid for everyday use
+3.	IAM User	Persistent identity; use only when appropriate
+4.	IAM Group	Collection of IAM users
+5.	IAM Role	Assumable identity; temporary credentials
+6.	IAM Policy	Defines permissions
+7.	Trust Policy	Who can assume a role
+8.	Permissions Policy	What the role/user can do
+9.	MFA	Adds another authentication factor
+10.	Least Privilege	Give only required permissions
+11.	Explicit Deny	Overrides an Allow
+12.	EC2 + S3	Use IAM Role, not hard-coded access keys
+13.	Human workforce	Prefer IAM Identity Center/federation + temporary credentials
+14.	Root access keys	Don't create them for normal programmatic access
