@@ -193,34 +193,34 @@ These questions provide a useful framework for solving IAM-related AWS certifica
 
 ---
 
-# YouTube Links
+# 🎥 YouTube Links
 
 ### Video 1 — IAM Theory
 
-🔗 **YouTube:** `Coming Soon`
+🔗 **YouTube: https://youtu.be/7y3oCMv3lTw
 
 ### Video 2 — How IAM Works
 
-🔗 **YouTube:** `Coming Soon`
+🔗 **YouTube: https://youtu.be/rS_nRE7yhBI
 
 ### Video 3 — How IAM Is Used
 
-🔗 **YouTube:** `Coming Soon`
+🔗 **YouTube: https://youtu.be/GNdXYaFxJUo
 
 ---
 
-# LinkedIn Posts
+# 💼 LinkedIn Posts
 
 ### Video 1 — IAM Theory
 
-🔗 **LinkedIn:** `Coming Soon`
+🔗 **LinkedIn: https://www.linkedin.com/feed/update/urn:li:share:7506218693404610560/
 
 ### Video 2 — How IAM Works
 
-🔗 **LinkedIn:** `Coming Soon`
+🔗 **LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7506219556168704001/
 
 ### Video 3 — How IAM Is Used
 
-🔗 **LinkedIn:** `Coming Soon`
+🔗 **LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7506220605520814081/
 
 ---
