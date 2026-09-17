@@ -193,7 +193,7 @@ These questions provide a useful framework for solving IAM-related AWS certifica
 
 ---
 
-# 🎥 YouTube Links
+## YouTube Links
 
 ### Video 1 — IAM Theory
 
@@ -209,7 +209,7 @@ These questions provide a useful framework for solving IAM-related AWS certifica
 
 ---
 
-# 💼 LinkedIn Posts
+## LinkedIn Posts
 
 ### Video 1 — IAM Theory
 
