@@ -20,11 +20,11 @@ These services give developers different options for building scalable and relia
 ---
 
 ## HOW it works?
-User → Load Balancer → EC2
-↓
-Auto Scaling adds/removes EC2
-↓
-EBS = storage
+- User → Load Balancer → EC2
+- ↓
+- Auto Scaling adds/removes EC2
+- ↓
+- EBS = storage
 - AMI = template
 - Lambda = event → function
 
