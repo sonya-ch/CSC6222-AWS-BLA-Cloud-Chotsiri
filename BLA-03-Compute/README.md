@@ -1,19 +1,19 @@
-
-# AWS Compute Services
+# Project: AWS Cloud Practitioner - Compute Services
+# Name: Saranya Chotsiri
+# Course: CSC6221 - Database Design 2
+# Instructor: Dr Victor Govindaswamy
+# Start Date: 9/22/2026
 
 ## Overview
-
 This biweekly project explores AWS Compute Services and how they are used to run applications, manage computing resources, and support scalable cloud architectures.
 
 ## Learning Objectives
-
 - Understand the fundamentals of AWS Compute Services.
 - Learn the differences between EC2, EBS, AMI, ELB, Auto Scaling, and Lambda.
 - Understand how compute services work together.
 - Explore a real-world example using an online food ordering application.
 
 ## Key Concepts
-
 | AWS Service | Description |
 |---|---|
 | **EC2** | Virtual servers for running applications. |
@@ -24,11 +24,9 @@ This biweekly project explores AWS Compute Services and how they are used to run
 | **Lambda** | Runs code in response to events without managing servers. |
 
 ## How It Works
-
 A typical application architecture can use:
 
 **Users → Load Balancer → EC2 Instances → Application**
-
 - **ELB:** Distributes incoming requests.
 - **Auto Scaling:** Adds or removes EC2 instances based on demand.
 - **EBS:** Provides persistent storage.
@@ -40,7 +38,6 @@ A typical application architecture can use:
 ### Online Food Ordering Application
 
 AWS Compute Services can support an online food ordering application:
-
 - **EC2:** Runs the backend application and APIs.
 - **ELB:** Distributes customer requests across EC2 instances.
 - **Auto Scaling:** Handles increased traffic during busy hours.
@@ -49,17 +46,17 @@ AWS Compute Services can support an online food ordering application:
 - **Lambda:** Processes food images or other event-driven tasks.
 
 ## Exam Key Takeaways
-
 - **EC2 vs Lambda:** EC2 provides virtual servers; Lambda runs code without requiring us to manage servers.
 - **AMI vs EBS:** AMI is an instance template; EBS is persistent storage.
 - **ELB vs Auto Scaling:** ELB distributes traffic; Auto Scaling adjusts the number of instances.
 
-## Video Overview
-
+## YouTube Video Overview
 1. **Theory:** Introduction to AWS Compute Services and their main concepts.
 2. **How It Works:** Explanation of how EC2, ELB, Auto Scaling, EBS, AMI, and Lambda work together.
 3. **Real-World Example:** Applying AWS Compute Services to an online food ordering application.
 
-## Conclusion
+## LinkedIn Posts
 
+
+## Conclusion
 AWS Compute Services provide flexible options for running applications, managing resources, and supporting scalable cloud solutions. Understanding these services helps developers design applications based on different workloads and requirements.
