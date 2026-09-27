@@ -7,15 +7,16 @@
 - Auto Scaling automatically adjusts the number of servers based on demand.
 - Lambda allows us to run code without managing servers.
 These services give developers different options for building scalable and reliable applications in the AWS cloud.
+
 ---
 
 ## What is Compute?
-EC2 = Server
-EBS = Hard drive
-AMI = Server template
-ELB = Traffic distributor
-Auto Scaling = Add/remove servers
-Lambda = Run code without managing servers
+- EC2 = Server
+- EBS = Hard drive
+- AMI = Server template
+- ELB = Traffic distributor
+- Auto Scaling = Add/remove servers
+- Lambda = Run code without managing servers
 ---
 
 ## HOW it works?
@@ -24,29 +25,29 @@ User → Load Balancer → EC2
 Auto Scaling adds/removes EC2
 ↓
 EBS = storage
-AMI = template
-Lambda = event → function
+- AMI = template
+- Lambda = event → function
 
 ---
 
 ## REAL WORLD - Food App
-EC2 = Backend
-EBS = Storage
-ELB = Users → Servers
-Auto Scaling = Lunch/dinner traffic
-AMI = Copy server setup
-Lambda = Process uploaded food image
+- EC2 = Backend
+- EBS = Storage
+- ELB = Users → Servers
+- Auto Scaling = Lunch/dinner traffic
+- AMI = Copy server setup
+- Lambda = Process uploaded food image
 
 ---
 
 ## Exam Keys
 ### Service:
-EC2	🖥️ Virtual Server
-EBS	💾 Persistent Storage
-AMI	📦 Instance Template
-ELB	🚦 Distribute Traffic
-Auto Scaling	📈 Adjust Instances
-Lambda	⚡ Run Code / Serverless
+- EC2	🖥️ Virtual Server
+- EBS	💾 Persistent Storage
+- AMI	📦 Instance Template
+- ELB	🚦 Distribute Traffic
+- Auto Scaling	📈 Adjust Instances
+- Lambda	⚡ Run Code / Serverless
 
 ## What difference? 
 •	EC2 vs Lambda → EC2 = We manage server | Lambda = AWS manages server
