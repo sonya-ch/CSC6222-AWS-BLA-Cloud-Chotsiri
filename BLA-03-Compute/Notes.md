@@ -49,8 +49,10 @@ EBS = storage
 - Auto Scaling	📈 Adjust Instances
 - Lambda	⚡ Run Code / Serverless
 
+---
+
 ## What difference? 
-•	EC2 vs Lambda → EC2 = We manage server | Lambda = AWS manages server
-•	AMI vs EBS → AMI = template to create instance | EBS = storage
-•	ELB vs Auto Scaling → ELB = spread traffic | Auto Scaling = De/increase instances
+-	EC2 vs Lambda → EC2 = We manage server | Lambda = AWS manages server
+-	AMI vs EBS → AMI = template to create instance | EBS = storage
+-	ELB vs Auto Scaling → ELB = spread traffic | Auto Scaling = De/increase instances
 
