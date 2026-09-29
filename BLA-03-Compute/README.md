@@ -51,12 +51,14 @@ AWS Compute Services can support an online food ordering application:
 - **ELB vs Auto Scaling:** ELB distributes traffic; Auto Scaling adjusts the number of instances.
 
 ## YouTube Video Overview
-1. **Theory:** Introduction to AWS Compute Services and their main concepts.
-2. **How It Works:** Explanation of how EC2, ELB, Auto Scaling, EBS, AMI, and Lambda work together.
-3. **Real-World Example:** Applying AWS Compute Services to an online food ordering application.
+1. **Theory:** Introduction to AWS Compute Services and their main concepts. https://youtu.be/DumL7DTuBeg
+2. **How It Works:** Explanation of how EC2, ELB, Auto Scaling, EBS, AMI, and Lambda work together. https://youtu.be/FWAvX7jiRn0
+3. **Real-World Example:** Applying AWS Compute Services to an online food ordering application. https://youtu.be/cvYkN6hohNU
 
 ## LinkedIn Posts
-
+1. https://www.linkedin.com/feed/update/urn:li:activity:7510548333363396609/
+2. https://www.linkedin.com/feed/update/urn:li:activity:7510548808221650944/
+3. https://www.linkedin.com/feed/update/urn:li:activity:7510549290289700865/
 
 ## Conclusion
 AWS Compute Services provide flexible options for running applications, managing resources, and supporting scalable cloud solutions. Understanding these services helps developers design applications based on different workloads and requirements.
