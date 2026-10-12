@@ -38,9 +38,9 @@ Each video is designed to be approximately **5–8 minutes long**, making the co
 
 | Post   | Topic               | Links                                               |
 | ------- | ------------------- | ----------------------------------------------------- |
-| Post 1 | Theory              | Understand the concepts and key terminology.          |
-| Post 2 | How to Use          | Explore practical use cases and service selection.    |
-| Post 3 | Summary & Exam Prep | Review key points, exam tips, and practice questions. |
+| Post 1 | Theory              | [Understand the concepts and key terminology. ](https://www.linkedin.com/feed/update/urn:li:activity:7515523009055727617/)         |
+| Post 2 | How to Use          | [Explore practical use cases and service selection.](https://www.linkedin.com/feed/update/urn:li:activity:7515523609474535424/)    |
+| Post 3 | Summary & Exam Prep | [Review key points, exam tips, and practice questions.](https://www.linkedin.com/feed/update/urn:li:activity:7515524148069314560/) |
 
 ---
 
