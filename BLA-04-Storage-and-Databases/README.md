@@ -23,18 +23,18 @@ By completing this learning project, learners will be able to:
 
 ## 📚 Learning Structure
 
+### YouTube Videos
 Each topic is organized into three video lessons.
 
 | Video   | Topic               | Links                                               |
 | ------- | ------------------- | ----------------------------------------------------- |
-| Video 1 | Theory              | Understand the concepts and key terminology.          |
-| Video 2 | How to Use          | Explore practical use cases and service selection.    |
-| Video 3 | Summary & Exam Prep | Review key points, exam tips, and practice questions. |
+| Video 1 | Theory              | [Understand the concepts and key terminology. ](https://youtu.be/MdLXby1EzIc)         |
+| Video 2 | How to Use          | [Explore practical use cases and service selection.](https://youtu.be/OIzX5_qSDto)    |
+| Video 3 | Summary & Exam Prep | [Review key points, exam tips, and practice questions.](https://youtu.be/yIgGR9N1Wt0) |
 
 Each video is designed to be approximately **5–8 minutes long**, making the content suitable for short learning sessions and revision.
 
-## LinkedIn Posts
- 
+### LinkedIn Posts
 
 | Post   | Topic               | Links                                               |
 | ------- | ------------------- | ----------------------------------------------------- |
@@ -42,6 +42,7 @@ Each video is designed to be approximately **5–8 minutes long**, making the co
 | Post 2 | How to Use          | Explore practical use cases and service selection.    |
 | Post 3 | Summary & Exam Prep | Review key points, exam tips, and practice questions. |
 
+---
 
 ## ☁️ Topics Covered
 
@@ -56,52 +57,6 @@ This module introduces five important AWS services:
 | Amazon RDS      | Managed relational databases  | SQL-based applications and structured relational data         |
 | Amazon Aurora   | AWS-built relational database | MySQL-compatible and PostgreSQL-compatible database workloads |
 | Amazon DynamoDB | NoSQL database                | Highly scalable, low-latency applications                     |
-
-### 2. Future Learning Modules
-
-Additional modules may cover:
-
-* AWS Cloud Fundamentals
-* AWS Global Infrastructure
-* Compute Services
-* Networking and Content Delivery
-* Security and Identity
-* Monitoring and Management
-* Pricing, Billing, and Support
-* Cloud Architecture and Well-Architected Concepts
-
-The learning sequence can be expanded as new topics and video lessons are developed.
-
-## 📝 Study Resources
-
-This repository uses Markdown files to organize learning materials and support quick revision.
-
-* `README.md` — project introduction and learning roadmap.
-* `NOTE.md` — exam revision notes, key service comparisons, and memory tricks.
-* `videos/` — video transcripts and lesson scripts, when available.
-* `practice-questions/` — additional practice questions and explanations, when available.
-
-Folders and files may be added as the project grows.
-
-## 🧠 Learning Approach
-
-The project follows a simple learning method:
-
-1. **Understand** — learn what an AWS service does.
-2. **Compare** — distinguish it from similar AWS services.
-3. **Apply** — connect the service to a real-world scenario.
-4. **Remember** — use keywords and short revision notes.
-5. **Practice** — answer exam-style questions and understand the reasoning.
-
-For example:
-
-* Object storage → Amazon S3
-* Shared file system → Amazon EFS
-* Managed relational database → Amazon RDS
-* AWS-built relational database → Amazon Aurora
-* NoSQL database → Amazon DynamoDB
-
-These are starting points for service selection. Always consider the complete requirements in a scenario.
 
 ## 🎓 Certification Goal
 
