@@ -70,7 +70,7 @@ Practice questions in this repository are original study questions and are not o
 
 1. Start with Video 1 to understand the theory.
 2. Continue with Video 2 to learn how to select the right service.
-3. Watch Video 3 and review `NOTE.md`.
+3. Watch Video 3 and review .[Notes](/BLA-04-Storage-and-Databases/Notes.md). 
 4. Answer the practice questions without looking at the answers first.
 5. Revisit any concepts that you find difficult.
 6. Review the official AWS exam guide before taking the certification exam.
