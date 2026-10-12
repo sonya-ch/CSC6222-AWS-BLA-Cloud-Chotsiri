@@ -25,13 +25,23 @@ By completing this learning project, learners will be able to:
 
 Each topic is organized into three video lessons.
 
-| Video   | Topic               | Purpose                                               |
+| Video   | Topic               | Links                                               |
 | ------- | ------------------- | ----------------------------------------------------- |
 | Video 1 | Theory              | Understand the concepts and key terminology.          |
 | Video 2 | How to Use          | Explore practical use cases and service selection.    |
 | Video 3 | Summary & Exam Prep | Review key points, exam tips, and practice questions. |
 
 Each video is designed to be approximately **5–8 minutes long**, making the content suitable for short learning sessions and revision.
+
+## LinkedIn Posts
+ 
+
+| Post   | Topic               | Links                                               |
+| ------- | ------------------- | ----------------------------------------------------- |
+| Post 1 | Theory              | Understand the concepts and key terminology.          |
+| Post 2 | How to Use          | Explore practical use cases and service selection.    |
+| Post 3 | Summary & Exam Prep | Review key points, exam tips, and practice questions. |
+
 
 ## ☁️ Topics Covered
 
