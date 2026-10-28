@@ -1,8 +1,8 @@
-#AWS Networking & Content Delivery
-##BLA5 AWS Cloud — Study Guide
-##Topics: Amazon VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Amazon Route 53, and Amazon CloudFront.
+# AWS Networking & Content Delivery
+## BLA5 AWS Cloud — Study Guide
+## Topics: Amazon VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Amazon Route 53, and Amazon CloudFront.
 
-###1. Overview
+### 1. Overview
 AWS networking services help you isolate cloud resources, control network traffic, resolve domain names, and deliver content efficiently to users.
 Service / Concept	Main purpose
 Amazon VPC	Creates a logically isolated virtual network in AWS
@@ -13,7 +13,7 @@ NAT Gateway	Allows private-subnet resources to initiate outbound IPv4 connection
 Amazon Route 53	DNS service for domain-name resolution and DNS routing
 Amazon CloudFront	Content delivery network (CDN) that can cache and deliver content from edge locations
 
-###2. Amazon VPC
+### 2. Amazon VPC
 Amazon Virtual Private Cloud (Amazon VPC) is a logically isolated virtual network in an AWS Region.
 With a VPC, you can configure:
 IPv4 and, where needed, IPv6 address ranges.
@@ -26,7 +26,7 @@ CIDR defines an IP address range. For example, `10.0.0.0/16` is a common private
 A smaller prefix number represents a larger address range. For example, `/16` contains more IPv4 addresses than `/24`.
 Plan CIDR blocks to avoid overlapping ranges when networks may need to communicate.
 
-###3. Subnets
+### 3. Subnets
 A subnet is a range of IP addresses within a VPC. Each subnet belongs to one Availability Zone.
 Public subnet
 A subnet is commonly considered public when its associated route table has a route to an Internet Gateway. Resources also need suitable IP addressing and security configuration to communicate with the public internet.
@@ -42,7 +42,7 @@ Internal services that should not be directly reachable from the public internet
 Important: A subnet's name does not determine whether it is public or private. Routing and resource configuration do.
 
 
-###4. Route Tables
+### 4. Route Tables
 A route table contains routes that determine where traffic is directed. Each route has a destination and a target.
 Example routes for a VPC with CIDR `10.0.0.0/16`:
 Destination	Target	Meaning
@@ -62,7 +62,7 @@ Configure the private subnet's route table to send internet-bound IPv4 traffic (
 NAT Gateways incur charges. Review pricing and remove test resources when they are no longer needed.
 
 
-###5. Amazon Route 53
+### 5. Amazon Route 53
 Amazon Route 53 is AWS's scalable Domain Name System (DNS) service.
 DNS helps translate human-readable names, such as `example.com`, into information used to locate services.
 Hosted zones and records
@@ -85,7 +85,7 @@ Multivalue answer routing: Can return multiple healthy records in response to a 
 DNS routing policies affect DNS answers; they are not the same as VPC route tables.
 
 
-###6. Amazon CloudFront
+### 6. Amazon CloudFront
 Amazon CloudFront is a content delivery network (CDN). It uses a global network of edge locations to deliver content closer to viewers.
 How it works
 A viewer requests content through a CloudFront distribution domain name or configured custom domain.
@@ -108,7 +108,7 @@ For private S3 origins, Origin Access Control (OAC) can help restrict access so 
 
 
 
-###7. How the services work together
+### 7. How the services work together
 Example: a globally accessed web application.
 Route 53 answers DNS queries for the website's domain.
 CloudFront delivers cached content and forwards requests to the configured origin when needed.
@@ -120,24 +120,24 @@ An Internet Gateway and, where required, a NAT Gateway provide different forms o
 Not every architecture needs every service. Choose components based on the application's requirements.
 
 
-###8. Practical configuration checklist
-1. VPC and subnets
+### 8. Practical configuration checklist
+#### 1. VPC and subnets
 [ ] Choose a non-overlapping CIDR range.
 [ ] Create the VPC and required subnets.
 [ ] Consider multiple Availability Zones for resilience.
 [ ] Verify each subnet's route-table association.
-2. Routing and connectivity
+#### 2. Routing and connectivity
 [ ] Attach an Internet Gateway if public internet connectivity is required.
 [ ] Add the appropriate default route to the public route table.
 [ ] Confirm public IP addressing and security rules where needed.
 [ ] For private outbound IPv4 internet access, configure a NAT Gateway and the private route table if appropriate.
 [ ] Review security groups and network ACLs separately from routes.
-3. Route 53
+#### 3. Route 53
 [ ] Create the correct public or private hosted zone.
 [ ] Add the required DNS records.
 [ ] If using an external registrar, configure the correct name servers.
 [ ] Verify record targets and allow for DNS caching/TTL behavior.
-4. CloudFront
+#### 4. CloudFront
 [ ] Choose and configure the origin.
 [ ] Review origin access and permissions.
 [ ] Configure cache behavior and viewer protocol policy.
