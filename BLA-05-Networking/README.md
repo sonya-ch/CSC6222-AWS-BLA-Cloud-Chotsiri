@@ -156,7 +156,9 @@ An origin is the source from which CloudFront retrieves content. Examples includ
 * [ ] Configure a certificate and alternate domain name if using a custom HTTPS domain.
 * [ ] Wait for deployment and test the distribution domain name.
 
-
+---
+## YouTube
+## LinkedIn
 
 ### 9. Troubleshooting hints
 * A public subnet cannot reach the internet: Check the IGW attachment, route table association, `0.0.0.0/0` route, public IP address, security group, and network ACL.
