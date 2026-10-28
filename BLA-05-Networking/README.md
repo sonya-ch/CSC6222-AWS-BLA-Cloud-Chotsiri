@@ -1,6 +1,7 @@
 # AWS Networking & Content Delivery
 ## BLA5 AWS Cloud — Study Guide
-## Topics: Amazon VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Amazon Route 53, and Amazon CloudFront.
+## Topics: 
+Amazon VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Amazon Route 53, and Amazon CloudFront.
 
 ### 1. Overview
 AWS networking services help you isolate cloud resources, control network traffic, resolve domain names, and deliver content efficiently to users.
