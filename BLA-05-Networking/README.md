@@ -158,7 +158,16 @@ An origin is the source from which CloudFront retrieves content. Examples includ
 
 ---
 ## YouTube
+* https://youtu.be/CxFtOFP1Qy4
+* https://youtu.be/MN2Z9LSpgOg
+* https://youtu.be/3n2Tb0hQuzg
+
 ## LinkedIn
+* https://www.linkedin.com/feed/update/urn:li:share:7521757695192825857/
+* https://www.linkedin.com/feed/update/urn:li:activity:7521758284140310528/
+* https://www.linkedin.com/feed/update/urn:li:activity:7521758812668665856/
+
+---
 
 ### 9. Troubleshooting hints
 * A public subnet cannot reach the internet: Check the IGW attachment, route table association, `0.0.0.0/0` route, public IP address, security group, and network ACL.
