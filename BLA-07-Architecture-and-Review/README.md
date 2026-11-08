@@ -529,12 +529,12 @@ delivering business value.
 The AWS Certified Cloud Practitioner CLF-C02 exam guide defines four
 domains:
 
-  Domain   Topic                             Weighting
-  -------- ------------------------------- -----------
-  1        Cloud Concepts                          24%
-  2        Security and Compliance                 30%
-  3        Cloud Technology and Services           34%
-  4        Billing, Pricing, and Support           12%
+|  Domain  | Topic                           |  Weighting |
+|  --------| ------------------------------- |----------- |
+|  1       | Cloud Concepts                  |        24% |
+|  2       | Security and Compliance         |        30% |
+|  3       | Cloud Technology and Services   |        34% |
+|  4       | Billing, Pricing, and Support   |        12% |
 
 Use these weightings to guide revision time. The practice questions in
 this guide are a short sample and do not represent a full-length
