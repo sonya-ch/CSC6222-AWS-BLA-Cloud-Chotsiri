@@ -1,6 +1,6 @@
 # AWS Monitoring, Management & Cost
 
-## BLA6 AWS Cloud --- Study Guide
+## BLA6 AWS Cloud
 
 ## Topics: Amazon CloudWatch, AWS CloudTrail, AWS Billing and Cost Management, AWS Pricing, and AWS Support.
 
@@ -334,8 +334,5 @@ organisation's monitoring, audit, financial, and support requirements.
   Discounted spare EC2 capacity that  Spot Instances
   can be interrupted                  
 
-  Technical assistance from AWS       AWS Support
-
-  Recommendations to improve an AWS   AWS Trusted Advisor
-  environment                         
+  Technical assistance from AWS       AWS Support                 
   -----------------------------------------------------------------------
