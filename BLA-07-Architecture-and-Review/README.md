@@ -1,7 +1,7 @@
 
 # AWS Architecture & Exam Review
 
-## BLA7 AWS Cloud --- Study Guide
+## BLA7 AWS Cloud
 
 ## Topics: AWS Well-Architected Framework, AWS Global Infrastructure, Architecture Principles, High Availability, Fault Tolerance, Scalability, Elasticity, Security, Shared Responsibility Model, and Exam Review.
 
@@ -486,25 +486,25 @@ delivering business value.
 
   Question   Correct answer   Topic
   ---------- ---------------- --------------------
-  1          B                Elasticity
-  2          C                AWS IAM
-  3          B                Amazon S3
-  4          B                Availability Zones
-  5          C                Amazon CloudWatch
-  6          B                AWS CloudTrail
-  7          B                AWS Cost Explorer
-  8          C                Cost Optimization
+*  1          B                Elasticity
+*  2          C                AWS IAM
+*  3          B                Amazon S3
+*  4          B                Availability Zones
+*  5          C                Amazon CloudWatch
+*  6          B                AWS CloudTrail
+*  7          B                AWS Cost Explorer
+*  8          C                Cost Optimization
 
 **Total: 8 marks**
 
 #### Suggested assessment guide
 
-  Score   Suggested result
-  ------- --------------------------------------------------
-  7--8    Excellent -- Strong understanding
-  5--6    Good -- Review weaker topics
-  3--4    Needs improvement -- Revise the relevant lessons
-  0--2    Repeat the revision and practise more questions
+|  Score | Suggested result |
+| -------| -------------------------------------------------- |
+|  7--8  |  Excellent -- Strong understanding |
+|  5--6  |  Good -- Review weaker topics |
+|  3--4  |  Needs improvement -- Revise the relevant lessons |
+|  0--2  |  Repeat the revision and practise more questions |
 
 ### 11. Final exam preparation checklist
 
