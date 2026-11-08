@@ -33,9 +33,9 @@ For each biweekly period, I follow this learning cycle:
 | **02**   | [AWS IAM & Security](./BLA-02-IAM)                                  | IAM, authentication, authorization, security          | ✅ Completed   |
 | **03**   | [AWS Compute Services](./BLA-03-Compute/)                           | EC2, EBS, AMI, ELB, Auto Scaling, Lambda              | ✅ Completed   |
 | **04**   | [AWS Storage & Databases](./BLA-04-Storage-and-Databases/)          | S3, EFS, RDS, Aurora, DynamoDB                        | ✅ Completed   |
-| **05**   | [AWS Networking & Content Delivery](./BLA-05-Networking/)           | VPC, Subnets, Route Tables, Route 53, CloudFront      | 🔄 In Progress |
-| **06**   | [AWS Monitoring, Management & Cost](./BLA-06-Management-and-Cost/)  | CloudWatch, CloudTrail, Billing, Pricing, Support     | ⏳ Upcoming    |
-| **07**   | [AWS Architecture & Exam Review](./BLA-07-Architecture-and-Review/) | Well-Architected Framework, Architecture, Exam Review | ⏳ Upcoming    |
+| **05**   | [AWS Networking & Content Delivery](./BLA-05-Networking/)           | VPC, Subnets, Route Tables, Route 53, CloudFront      | ✅ Completed   |
+| **06**   | [AWS Monitoring, Management & Cost](./BLA-06-Management-and-Cost/)  | CloudWatch, CloudTrail, Billing, Pricing, Support     | ✅ Completed   |
+| **07**   | [AWS Architecture & Exam Review](./BLA-07-Architecture-and-Review/) | Well-Architected Framework, Architecture, Exam Review | ✅ Completed   |
 ---
 
 
