@@ -4,6 +4,16 @@
 
 ## Topics: Amazon CloudWatch, AWS CloudTrail, AWS Billing and Cost Management, AWS Pricing, and AWS Support.
 
+### YouTube:
+* https://youtu.be/ozUlR5fx18M
+* https://youtu.be/TtJCzFZpfMU
+* https://youtu.be/qbDnWdGehBs
+
+### LinkedIn:
+* https://www.linkedin.com/feed/update/urn:li:activity:7525680397574258688/
+* https://www.linkedin.com/feed/update/urn:li:activity:7525681007451308032/
+* https://www.linkedin.com/feed/update/urn:li:activity:7525681524319432704/
+
 ### 1. Overview
 
 AWS monitoring, management, and cost services help organisations observe
